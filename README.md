@@ -5,6 +5,9 @@
 
 # Blochain Courses
 * Blockchain for Business - An Introduction to Hyperledger Technologies
+
+# Videos
+* https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
 # Crypto-learnings TBA
 ### symmetric
 ### asymmetric 
