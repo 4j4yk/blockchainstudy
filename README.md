@@ -3,6 +3,7 @@
 * https://hbr.org/2017/02/a-brief-history-of-blockchain
 * http://chimera.labs.oreilly.com/books/1234000001802/ch07.html#_structure_of_a_block)
 * https://www.multichain.com/blog/2016/03/blockchains-vs-centralized-databases/
+* [Do you need a blockchain?](https://eprint.iacr.org/2017/375.pdf)
 
 # Blochain Courses
 * Blockchain for Business - An Introduction to Hyperledger Technologies
