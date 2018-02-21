@@ -22,3 +22,6 @@
 
 # DApps
 * [CryptoKitties](https://www.cryptokitties.co/)
+
+# Incidents Summary
+* [Blockchain-Graveyard](https://magoo.github.io/Blockchain-Graveyard)
