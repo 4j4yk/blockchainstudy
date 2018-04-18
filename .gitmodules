@@ -2,5 +2,5 @@
 	path = ipfs
 	url = https://github.com/akhampariya/ipfs
 [submodule "docs"]
-	path = blockchainpaper
+	path = docs
 	url = https://github.com/akhampariya/blockchainpaper
